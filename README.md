@@ -8,4 +8,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+ 
+ ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonKimm&show_icons=true&theme=synthwave) 
 
