@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=blue&text=YoungHoon's%Git&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=8ecae6&text=YoungHoon's%Git&fontSize=40&animation=twinkling)
 
 
 ### 🔨Tech Stack
