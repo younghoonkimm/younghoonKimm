@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=YoungHoon's%Git&fontSize=40&animation=twinkling)
 
 <br/>
-<br/>
 
 ### 🔨Tech Stack
 
